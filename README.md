@@ -1,2 +1,2 @@
-# Belle-Aura
-Official website of BELLE AURA beauty clinic
+# Aura
+Official website of AURA beauty clinic
